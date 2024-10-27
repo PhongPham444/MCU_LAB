@@ -1,0 +1,5 @@
+fsm.c:14:6:display7SEG	16	static
+fsm.c:110:6:updateClockBuffer	32	static
+fsm.c:143:6:displayContent	16	static
+fsm.c:171:6:fsm_run	8	static
+fsm.c:275:6:init	8	static
